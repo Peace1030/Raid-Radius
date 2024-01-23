@@ -4,7 +4,7 @@ Radius Raid is a space themed shoot 'em up where you must blast away unrelenting
 
 This is an an entry for [js13kGames](http://js13kgames.com) 2013. The theme this year was bad luck, but I didn't work it into my game at all. There are certainly luck and chance factors that affect the gameplay, but those weren't built in for the competition. Check out [Radius Raid](http://js13kgames.com/entries/radius-raid) and all of the other entries at [js13kGames](http://js13kgames.com/entries)!
 
-**Final Size:** 13,278 bytes
+**Final Size:** 12,278 bytes
 
 # Controls #
 **Move:** WASD/Arrows  
